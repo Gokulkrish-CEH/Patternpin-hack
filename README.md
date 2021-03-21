@@ -32,7 +32,8 @@ Hacklock is a bash based script which is officially termux from this tool in jus
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://https://github.com/Gokulkrish-CEH/Patternpin-hack
+* `git clone https://https://github.com/Gokulkrish-CEH/Patternpin-hack`
+
 * `cd $HOME`
 * `ls`
 * `cd hacklock`
